@@ -1,4 +1,8 @@
 @media (max-width: 992px) {
+  .app-btstore img {
+    width: 240px;
+    margin-bottom: 20px;
+}
   .banner-img {
     padding-top: 10px;
   }
