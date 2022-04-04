@@ -133,6 +133,19 @@ h6 a:hover {
 /*-------------------
 BUTTONS STYLE
 ----------------=----*/
+.feature-item.bg-red {
+  background: red;
+}
+.tex-branco P {
+  color: white;
+}
+.tex-branco h4 {
+  color: white;
+}
+.feature-item.style-2.bg-red {
+  background: #de2d2d;
+}
+
 .app-btstore img {
   margin-right: 20px;
   width: 190px;
